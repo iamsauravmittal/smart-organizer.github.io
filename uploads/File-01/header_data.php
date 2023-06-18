@@ -1,0 +1,1 @@
+<?php $headerText = 'Please provide the description for your file/folder here.';
